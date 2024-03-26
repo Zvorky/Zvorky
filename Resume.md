@@ -18,3 +18,8 @@
 ## Languages
 - **Portuguese**: Native
 - **English**: Advanced
+
+## Pinned Projects
+| [DropFilter](https://github.com/zvorky/dropfilter) | [Cyclist](https://github.com/zvorky/cyclist) | [Godotando](https://github.com/zvorky/godotando) |
+|---|---|---|
+| [<img src="https://github.com/Zvorky/DropFilter/blob/main/ArtWork/DropFilter_icon.svg" width=121>](https://github.com/zvorky/dropfilter) | [<img src="https://github.com/Zvorky/Cyclist/blob/main/artwork/cyclist_icon.svg" width=121>](https://github.com/zvorky/cyclist) | [<img src="https://github.com/Zvorky/Godotando/blob/main/icon.svg" width=121>](https://github.com/zvorky/godotando) |
